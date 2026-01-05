@@ -1,1 +1,70 @@
-https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
+
+{
+  "youtube_channels": [
+    {
+      "name": "SQLBI",
+      "handle": "@SQLBI",
+      "channel_id": "UCcc21gBGNJwZM_eDEByeN-Q",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcc21gBGNJwZM_eDEByeN-Q",
+      "sources": [
+        "https://www.youtube.com/channel/UCcc21gBGNJwZM_eDEByeN-Q",
+        "https://www.speakrj.com/audit/report/UCcc21gBGNJwZM_eDEByeN-Q/youtube"
+      ]
+    },
+    {
+      "name": "Your 365 Coach (Scott Brant)",
+      "handle": "@your365coach",
+      "channel_id": "UC-Iu-wRWwWX8NjVRxDnW8JA",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Iu-wRWwWX8NjVRxDnW8JA",
+      "sources": [
+        "https://www.youtube.com/channel/UC-Iu-wRWwWX8NjVRxDnW8JA",
+        "https://socialblade.com/youtube/handle/your365coach"
+      ]
+    },
+    {
+      "name": "M365 Copilot Connection",
+      "handle": "@M365CopilotConnection",
+      "channel_id": null,
+      "rss_url": null,
+      "handle_url": "https://www.youtube.com/@M365CopilotConnection",
+      "todo": "Resolve UC channel_id from page source (search for \"channelId\" in HTML) or API, then set rss_url to feeds/videos.xml?channel_id=ID",
+      "sources": [
+        "https://www.youtube.com/@M365CopilotConnection"
+      ]
+    },
+    {
+      "name": "Goodly (Chandeep)",
+      "handle": "@GoodlyChandeep",
+      "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfngi7_ASuo5jdWX0bNauQ",
+      "sources": [
+        "https://www.speakrj.com/audit/report/UCcfngi7_ASuo5jdWX0bNauQ/youtube",
+        "https://www.youtube.com/c/GoodlyChandeep/channels"
+      ]
+    },
+    {
+      "name": "How to Power BI (Bas)",
+      "handle": "@HowtoPowerBI",
+      "channel_id": "UCcfngi7_ASuo5jdWX0bNauQ",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcfngi7_ASuo5jdWX0bNauQ",
+      "sources": [
+        "https://www.speakrj.com/audit/report/UCcfngi7_ASuo5jdWX0bNauQ/youtube",
+        "https://www.youtube.com/howtopowerbi"
+      ]
+    },
+    {
+      "name": "Pragmatic Works",
+      "handle": "@PragmaticWorks",
+      "channel_id": "UC5CugyvTdOloiuTc9nN09TA",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5CugyvTdOloiuTc9nN09TA",
+      "sources": [
+        "https://vidiq.com/youtube-stats/channel/UC5CugyvTdOloiuTc9nN09TA/",
+        "https://www.socialhipper.com/profile/UC5CugyvTdOloiuTc9nN09TA/youtube"
+      ]
+    }
+  ],
+  "meta": {
+    "rss_format_reference": "https://support.google.com/youtube/answer/3250431?hl=en",
+    "how_to_build_feed": "https://ivyreader.com/articles/youtube-rss"
+  }
+}
