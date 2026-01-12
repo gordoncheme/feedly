@@ -36,6 +36,13 @@
       "handle": "@PragmaticWorks",
       "channel_id": "UC5CugyvTdOloiuTc9nN09TA",
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5CugyvTdOloiuTc9nN09TA"
+    },
+    {
+      "name": "Loves Data",
+      "handle": "@LovesData",
+      "channel_id": "UCDnJ7pVeZXFn7gcbcwcjUkA",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDnJ7pVeZXFn7gcbcwcjUkA",
+      "channel_url": "https://www.youtube.com/@LovesData/videos"
     }
   ]
 }
