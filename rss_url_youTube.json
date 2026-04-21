@@ -57,6 +57,13 @@
       "channel_id": "UCdccefsQ7lj_Lir8Qgg3AMQ",
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdccefsQ7lj_Lir8Qgg3AMQ",
       "url": "https://www.youtube.com/@MeasureKiller"
+    },
+    {
+      "name": "Data Factory",
+      "handle": "@MSDataFactory",
+      "channel_id": "UC2S0k7NeLcEm5_IhHUwpN0g",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2S0k7NeLcEm5_IhHUwpN0g",
+      "url": "https://www.youtube.com/@MSDataFactory"
     }
   ]
 }
