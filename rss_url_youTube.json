@@ -71,6 +71,13 @@
       "channel_id": "UCAeJheOWuUrs00ZPnUaOA0A",
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAeJheOWuUrs00ZPnUaOA0A",
       "url": "https://www.youtube.com/@CollaborationSimplified"
+    },
+    {
+      "name": "Microsoft Community Learning",
+      "handle": "@MicrosoftCommunityLearning",
+      "channel_id": "UC_mKdhw-V6CeCM7gTo_Iy7w",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_mKdhw-V6CeCM7gTo_Iy7w",
+      "url": "http://www.youtube.com/@MicrosoftCommunityLearning"
     }
   ]
 }
