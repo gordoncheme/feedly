@@ -85,6 +85,20 @@
       "channel_id": "UCvBYTqRx-n_8KzFO0MJlUVw",
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvBYTqRx-n_8KzFO0MJlUVw",
       "url": "www.youtube.com/@RezaDorrani"
+    },
+    {
+      "name": "DATAPAO",
+      "handle": "@DATAPAO",
+      "channel_id": "UCTMClHT9siun21bkiTei55Q",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTMClHT9siun21bkiTei55Q",
+      "url": "https://www.youtube.com/@DATAPAO"
+    },
+    {
+      "name": "Databricks",
+      "handle": "@Databricks",
+      "channel_id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "url": "https://www.youtube.com/@Databricks"
     }
   ]
 }
